@@ -1,5 +1,6 @@
 # UsePermission
-Define Library for access user permission
+Define Library for access run time user permission
+Define user permission and also with open setting to force permission
 
 Step 1. Add the JitPack repository to your build file
 

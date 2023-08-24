@@ -11,8 +11,8 @@ Step 1. Add the JitPack repository to your build file
 	}
  ```
  Step 2. Add the dependency
- ***gradle
+```bash
  dependencies {
 	        implementation 'com.github.valakhushbu:UsePermission:1.0.0'
 	}
- ***
+ ```
